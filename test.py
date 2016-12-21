@@ -1,2 +1,2 @@
 import pyabk
-print pyabk-py.hi()
+print pyabk.hi()
